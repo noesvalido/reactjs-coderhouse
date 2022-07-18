@@ -1,0 +1,15 @@
+.Navbar {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    width: 60vw;
+    max-width: 30vw;
+    align-items: center;
+    height: 3rem;
+}
+.Menu {
+    gap: 2rem;
+    display: flex;
+    max-height: 1rem;
+}
