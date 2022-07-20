@@ -3,8 +3,7 @@
     gap: 1rem;
     justify-content: space-evenly;
     background-color: antiquewhite;
-    width: 60vw;
-    max-width: 30vw;
+    width: 100vw;
     align-items: center;
     height: 3rem;
 }
