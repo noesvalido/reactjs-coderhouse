@@ -1,9 +1,5 @@
-import './Button.css';
-
 const Button = (props) => {
-    return (
-        <button className='button' href='#' >{props.label}</button>
-    )
+    return <button onClick={props.handleClick} style={props.style}>{props.children}</button>
 }
 
-export default Button;
+export default Button
